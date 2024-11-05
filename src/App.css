@@ -1,7 +1,7 @@
 .background-gradient-clouds {
     background: linear-gradient(to right, #cececc, #0cb1c7);
     background-size: 200% 200%;
-    animation: backgroundMove 10s linear infinite alternate;
+    animation: backgroundMove 3s linear infinite alternate;
 }
 
 @keyframes backgroundMove {
